@@ -1,3 +1,5 @@
+Scoring Service Kafka Stream Processing
+
 consider two data topics, CDS_1 and CDS_2, with one data per minute, and a time window of 1 minute. Here is the example data:
 
 Window 1: CDS_1: [0] CDS_2: [1] Weighted Interaction: -1
